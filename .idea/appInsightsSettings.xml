@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.aman.chatz" />
+                  <option name="mobileSdkAppId" value="1:36608559360:android:91c2cb3918801f53580be5" />
+                  <option name="projectId" value="chatz-b9231" />
+                  <option name="projectNumber" value="36608559360" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
